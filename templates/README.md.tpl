@@ -3,7 +3,7 @@ Hi!
 I am Aggelos Bellos. I learn from the mistakes of people who took my advice.
 
 My day to day work is to advocate Domain Driven Design and Test Driven Development. When I don't annoy people about these things, I usually annoy them by adding new rules in the static analysis tools and in the CI process in general.
-Beyond the code, I am deeply fascinated by socio-technical systems, exploring how social dynamics influence technical architectures and vice versa. This is also the reason why I will annoy you too in the conference.
+Beyond the code, I am deeply fascinated by socio-technical systems, exploring how social dynamics influence technical architectures and vice versa.
 In my free time, I delve into scalability challenges and design patterns, sharing insights and solutions on my [blog](https://medium.com/@aggelosbellos).
 
 ---
