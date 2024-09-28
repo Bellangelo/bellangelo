@@ -11,14 +11,14 @@ In my free time, I delve into scalability challenges and design patterns, sharin
 #### 💻 Check out what I'm currently working on
 {{range recentContributions 10}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .OccurredAt}})
-  {{- end}}
+{{- end}}
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 {{range recentReleases 10}}
 - [{{.Name}}]({{.URL}}) - [{{.LastRelease.TagName}}]({{.LastRelease.URL}}) ({{humanize .LastRelease.PublishedAt}})
-  {{- end}}
+{{- end}}
 
 ---
 
