@@ -10,11 +10,11 @@ In my free time, I delve into scalability challenges and design patterns, sharin
 
 #### 💻 Check out what I'm currently working on
 
-- [devstaff-crete/DevStaff-Heraklion](https://github.com/devstaff-crete/DevStaff-Heraklion) (today)
-- [Bellangelo/bellangelo](https://github.com/Bellangelo/bellangelo) (today)
-- [Bellangelo/meetup-crawler](https://github.com/Bellangelo/meetup-crawler) (today)
-- [Bellangelo/type-coverage-updater](https://github.com/Bellangelo/type-coverage-updater) (1 day ago)
-- [Bellangelo/phpstan-require-file-exists](https://github.com/Bellangelo/phpstan-require-file-exists) (3 weeks ago)
+- [devstaff-crete/DevStaff-Heraklion](https://github.com/devstaff-crete/DevStaff-Heraklion) (1 day ago)
+- [Bellangelo/bellangelo](https://github.com/Bellangelo/bellangelo) (1 day ago)
+- [Bellangelo/meetup-crawler](https://github.com/Bellangelo/meetup-crawler) (1 day ago)
+- [Bellangelo/type-coverage-updater](https://github.com/Bellangelo/type-coverage-updater) (2 days ago)
+- [Bellangelo/phpstan-require-file-exists](https://github.com/Bellangelo/phpstan-require-file-exists) (4 weeks ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 month ago)
 - [devstaff-crete/devstaff-website](https://github.com/devstaff-crete/devstaff-website) (1 month ago)
 - [Bellangelo/comment-charm](https://github.com/Bellangelo/comment-charm) (1 month ago)
@@ -25,8 +25,8 @@ In my free time, I delve into scalability challenges and design patterns, sharin
 
 #### 🔭 Latest releases I've contributed to
 
-- [Bellangelo/type-coverage-updater](https://github.com/Bellangelo/type-coverage-updater) - [v1.1.0](https://github.com/Bellangelo/type-coverage-updater/releases/tag/v1.1.0) (1 day ago)
-- [Bellangelo/phpstan-require-file-exists](https://github.com/Bellangelo/phpstan-require-file-exists) - [v1.2.0](https://github.com/Bellangelo/phpstan-require-file-exists/releases/tag/v1.2.0) (3 weeks ago)
+- [Bellangelo/type-coverage-updater](https://github.com/Bellangelo/type-coverage-updater) - [v1.1.0](https://github.com/Bellangelo/type-coverage-updater/releases/tag/v1.1.0) (2 days ago)
+- [Bellangelo/phpstan-require-file-exists](https://github.com/Bellangelo/phpstan-require-file-exists) - [v1.2.0](https://github.com/Bellangelo/phpstan-require-file-exists/releases/tag/v1.2.0) (4 weeks ago)
 - [Bellangelo/comment-charm](https://github.com/Bellangelo/comment-charm) - [v1](https://github.com/Bellangelo/comment-charm/releases/tag/v1) (1 month ago)
 - [Bellangelo/TestSuiteArchitect](https://github.com/Bellangelo/TestSuiteArchitect) - [v0.1.7](https://github.com/Bellangelo/TestSuiteArchitect/releases/tag/v0.1.7) (2 months ago)
 - [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - [3.1.0](https://github.com/OAI/OpenAPI-Specification/releases/tag/3.1.0) (3 years ago)
