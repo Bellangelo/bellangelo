@@ -10,7 +10,7 @@ In my free time, I delve into scalability challenges and design patterns, sharin
 
 #### 💻 Check out what I'm currently working on
 
-- [devstaff-crete/DevStaff-Heraklion](https://github.com/devstaff-crete/DevStaff-Heraklion) (6 days ago)
+- [devstaff-crete/DevStaff-Heraklion](https://github.com/devstaff-crete/DevStaff-Heraklion) (1 week ago)
 - [Bellangelo/bellangelo](https://github.com/Bellangelo/bellangelo) (1 week ago)
 - [Bellangelo/meetup-crawler](https://github.com/Bellangelo/meetup-crawler) (1 week ago)
 - [Bellangelo/type-coverage-updater](https://github.com/Bellangelo/type-coverage-updater) (1 week ago)
