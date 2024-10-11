@@ -13,7 +13,7 @@ In my free time, I delve into scalability challenges and design patterns, sharin
 - [devstaff-crete/DevStaff-Heraklion](https://github.com/devstaff-crete/DevStaff-Heraklion) (1 week ago)
 - [Bellangelo/bellangelo](https://github.com/Bellangelo/bellangelo) (1 week ago)
 - [Bellangelo/meetup-crawler](https://github.com/Bellangelo/meetup-crawler) (1 week ago)
-- [Bellangelo/type-coverage-updater](https://github.com/Bellangelo/type-coverage-updater) (1 week ago)
+- [Bellangelo/type-coverage-updater](https://github.com/Bellangelo/type-coverage-updater) (2 weeks ago)
 - [Bellangelo/phpstan-require-file-exists](https://github.com/Bellangelo/phpstan-require-file-exists) (1 month ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 month ago)
 - [devstaff-crete/devstaff-website](https://github.com/devstaff-crete/devstaff-website) (1 month ago)
@@ -25,7 +25,7 @@ In my free time, I delve into scalability challenges and design patterns, sharin
 
 #### 🔭 Latest releases I've contributed to
 
-- [Bellangelo/type-coverage-updater](https://github.com/Bellangelo/type-coverage-updater) - [v1.1.0](https://github.com/Bellangelo/type-coverage-updater/releases/tag/v1.1.0) (1 week ago)
+- [Bellangelo/type-coverage-updater](https://github.com/Bellangelo/type-coverage-updater) - [v1.1.0](https://github.com/Bellangelo/type-coverage-updater/releases/tag/v1.1.0) (2 weeks ago)
 - [Bellangelo/phpstan-require-file-exists](https://github.com/Bellangelo/phpstan-require-file-exists) - [v1.2.0](https://github.com/Bellangelo/phpstan-require-file-exists/releases/tag/v1.2.0) (1 month ago)
 - [Bellangelo/comment-charm](https://github.com/Bellangelo/comment-charm) - [v1](https://github.com/Bellangelo/comment-charm/releases/tag/v1) (1 month ago)
 - [Bellangelo/TestSuiteArchitect](https://github.com/Bellangelo/TestSuiteArchitect) - [v0.1.7](https://github.com/Bellangelo/TestSuiteArchitect/releases/tag/v0.1.7) (3 months ago)
