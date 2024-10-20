@@ -10,6 +10,7 @@ In my free time, I delve into scalability challenges and design patterns, sharin
 
 #### 💻 Check out what I'm currently working on
 
+- [Bellangelo/codesniffer-naming-conventions](https://github.com/Bellangelo/codesniffer-naming-conventions) (today)
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (today)
 - [devstaff-crete/DevStaff-Heraklion](https://github.com/devstaff-crete/DevStaff-Heraklion) (2 weeks ago)
 - [Bellangelo/meetup-crawler](https://github.com/Bellangelo/meetup-crawler) (3 weeks ago)
@@ -19,7 +20,6 @@ In my free time, I delve into scalability challenges and design patterns, sharin
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 month ago)
 - [devstaff-crete/devstaff-website](https://github.com/devstaff-crete/devstaff-website) (1 month ago)
 - [Bellangelo/comment-charm](https://github.com/Bellangelo/comment-charm) (1 month ago)
-- [Bellangelo/TestSuiteArchitect](https://github.com/Bellangelo/TestSuiteArchitect) (3 months ago)
 
 ---
 
