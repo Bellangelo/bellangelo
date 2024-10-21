@@ -10,16 +10,16 @@ In my free time, I delve into scalability challenges and design patterns, sharin
 
 #### 💻 Check out what I'm currently working on
 
+- [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) (today)
 - [Bellangelo/codesniffer-naming-conventions](https://github.com/Bellangelo/codesniffer-naming-conventions) (today)
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (1 day ago)
 - [devstaff-crete/DevStaff-Heraklion](https://github.com/devstaff-crete/DevStaff-Heraklion) (2 weeks ago)
-- [Bellangelo/meetup-crawler](https://github.com/Bellangelo/meetup-crawler) (3 weeks ago)
 - [Bellangelo/bellangelo](https://github.com/Bellangelo/bellangelo) (3 weeks ago)
+- [Bellangelo/meetup-crawler](https://github.com/Bellangelo/meetup-crawler) (3 weeks ago)
 - [Bellangelo/type-coverage-updater](https://github.com/Bellangelo/type-coverage-updater) (3 weeks ago)
 - [Bellangelo/phpstan-require-file-exists](https://github.com/Bellangelo/phpstan-require-file-exists) (1 month ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 month ago)
 - [devstaff-crete/devstaff-website](https://github.com/devstaff-crete/devstaff-website) (1 month ago)
-- [Bellangelo/comment-charm](https://github.com/Bellangelo/comment-charm) (1 month ago)
 
 ---
 
