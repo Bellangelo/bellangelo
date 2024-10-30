@@ -25,7 +25,7 @@ In my free time, I delve into scalability challenges and design patterns, sharin
 
 #### 🔭 Latest releases I've contributed to
 
-- [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - [3.1.1](https://github.com/OAI/OpenAPI-Specification/releases/tag/3.1.1) (5 days ago)
+- [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - [3.1.1](https://github.com/OAI/OpenAPI-Specification/releases/tag/3.1.1) (6 days ago)
 - [Bellangelo/type-coverage-updater](https://github.com/Bellangelo/type-coverage-updater) - [v1.1.0](https://github.com/Bellangelo/type-coverage-updater/releases/tag/v1.1.0) (1 month ago)
 - [Bellangelo/phpstan-require-file-exists](https://github.com/Bellangelo/phpstan-require-file-exists) - [v1.2.0](https://github.com/Bellangelo/phpstan-require-file-exists/releases/tag/v1.2.0) (1 month ago)
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) - [v2024.2](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2024.2) (2 months ago)
