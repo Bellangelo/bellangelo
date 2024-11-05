@@ -10,8 +10,8 @@ In my free time, I delve into scalability challenges and design patterns, sharin
 
 #### 💻 Check out what I'm currently working on
 
-- [Bellangelo/codesniffer-naming-conventions](https://github.com/Bellangelo/codesniffer-naming-conventions) (1 day ago)
-- [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (5 days ago)
+- [Bellangelo/codesniffer-naming-conventions](https://github.com/Bellangelo/codesniffer-naming-conventions) (2 days ago)
+- [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (6 days ago)
 - [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) (2 weeks ago)
 - [devstaff-crete/DevStaff-Heraklion](https://github.com/devstaff-crete/DevStaff-Heraklion) (1 month ago)
 - [Bellangelo/bellangelo](https://github.com/Bellangelo/bellangelo) (1 month ago)
