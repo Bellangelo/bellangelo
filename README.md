@@ -10,8 +10,8 @@ In my free time, I delve into scalability challenges and design patterns, sharin
 
 #### 💻 Check out what I'm currently working on
 
-- [adr/adr.github.io](https://github.com/adr/adr.github.io) (1 day ago)
-- [Bellangelo/phpadr](https://github.com/Bellangelo/phpadr) (2 days ago)
+- [adr/adr.github.io](https://github.com/adr/adr.github.io) (2 days ago)
+- [Bellangelo/phpadr](https://github.com/Bellangelo/phpadr) (3 days ago)
 - [Bellangelo/comment-charm](https://github.com/Bellangelo/comment-charm) (2 weeks ago)
 - [devstaff-crete/devstaff-website](https://github.com/devstaff-crete/devstaff-website) (2 weeks ago)
 - [Bellangelo/coding-standard](https://github.com/Bellangelo/coding-standard) (2 weeks ago)
@@ -25,7 +25,7 @@ In my free time, I delve into scalability challenges and design patterns, sharin
 
 #### 🔭 Latest releases I've contributed to
 
-- [Bellangelo/phpadr](https://github.com/Bellangelo/phpadr) - [v1.0.0](https://github.com/Bellangelo/phpadr/releases/tag/v1.0.0) (5 days ago)
+- [Bellangelo/phpadr](https://github.com/Bellangelo/phpadr) - [v1.0.0](https://github.com/Bellangelo/phpadr/releases/tag/v1.0.0) (6 days ago)
 - [Bellangelo/coding-standard](https://github.com/Bellangelo/coding-standard) - [v1.0.3](https://github.com/Bellangelo/coding-standard/releases/tag/v1.0.3) (2 weeks ago)
 - [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - [3.1.1](https://github.com/OAI/OpenAPI-Specification/releases/tag/3.1.1) (1 month ago)
 - [Bellangelo/type-coverage-updater](https://github.com/Bellangelo/type-coverage-updater) - [v1.1.0](https://github.com/Bellangelo/type-coverage-updater/releases/tag/v1.1.0) (2 months ago)
