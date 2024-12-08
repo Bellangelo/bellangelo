@@ -10,8 +10,8 @@ In my free time, I delve into scalability challenges and design patterns, sharin
 
 #### 💻 Check out what I'm currently working on
 
-- [devstaff-crete/devstaff-website](https://github.com/devstaff-crete/devstaff-website) (today)
-- [devstaff-crete/DevStaff-Heraklion](https://github.com/devstaff-crete/DevStaff-Heraklion) (1 day ago)
+- [devstaff-crete/devstaff-website](https://github.com/devstaff-crete/devstaff-website) (1 day ago)
+- [devstaff-crete/DevStaff-Heraklion](https://github.com/devstaff-crete/DevStaff-Heraklion) (2 days ago)
 - [adr/adr.github.io](https://github.com/adr/adr.github.io) (1 week ago)
 - [Bellangelo/phpadr](https://github.com/Bellangelo/phpadr) (1 week ago)
 - [Bellangelo/comment-charm](https://github.com/Bellangelo/comment-charm) (3 weeks ago)
