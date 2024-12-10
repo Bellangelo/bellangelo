@@ -10,7 +10,7 @@ In my free time, I delve into scalability challenges and design patterns, sharin
 
 #### 💻 Check out what I'm currently working on
 
-- [Bellangelo/chaos-engineering-frontend](https://github.com/Bellangelo/chaos-engineering-frontend) (2 days ago)
+- [Bellangelo/chaos-engineering-frontend](https://github.com/Bellangelo/chaos-engineering-frontend) (today)
 - [devstaff-crete/devstaff-website](https://github.com/devstaff-crete/devstaff-website) (3 days ago)
 - [devstaff-crete/DevStaff-Heraklion](https://github.com/devstaff-crete/DevStaff-Heraklion) (4 days ago)
 - [adr/adr.github.io](https://github.com/adr/adr.github.io) (2 weeks ago)
@@ -19,7 +19,7 @@ In my free time, I delve into scalability challenges and design patterns, sharin
 - [Bellangelo/coding-standard](https://github.com/Bellangelo/coding-standard) (4 weeks ago)
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (1 month ago)
 - [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) (1 month ago)
-- [Bellangelo/bellangelo](https://github.com/Bellangelo/bellangelo) (2 months ago)
+- [Bellangelo/meetup-crawler](https://github.com/Bellangelo/meetup-crawler) (2 months ago)
 
 ---
 
