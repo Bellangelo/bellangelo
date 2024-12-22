@@ -25,8 +25,8 @@ In my free time, I delve into scalability challenges and design patterns, sharin
 
 #### 🔭 Latest releases I've contributed to
 
-- [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) - [v2024.3](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2024.3) (4 days ago)
-- [Bellangelo/phpadr](https://github.com/Bellangelo/phpadr) - [v1.0.0](https://github.com/Bellangelo/phpadr/releases/tag/v1.0.0) (4 weeks ago)
+- [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) - [v2024.3](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2024.3) (5 days ago)
+- [Bellangelo/phpadr](https://github.com/Bellangelo/phpadr) - [v1.0.0](https://github.com/Bellangelo/phpadr/releases/tag/v1.0.0) (1 month ago)
 - [Bellangelo/coding-standard](https://github.com/Bellangelo/coding-standard) - [v1.0.3](https://github.com/Bellangelo/coding-standard/releases/tag/v1.0.3) (1 month ago)
 - [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - [3.1.1](https://github.com/OAI/OpenAPI-Specification/releases/tag/3.1.1) (1 month ago)
 - [Bellangelo/type-coverage-updater](https://github.com/Bellangelo/type-coverage-updater) - [v1.1.0](https://github.com/Bellangelo/type-coverage-updater/releases/tag/v1.1.0) (2 months ago)
