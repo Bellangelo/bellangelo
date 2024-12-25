@@ -10,8 +10,8 @@ In my free time, I delve into scalability challenges and design patterns, sharin
 
 #### 💻 Check out what I'm currently working on
 
-- [Bellangelo/Devstaff-Meetup-Image-Generator](https://github.com/Bellangelo/Devstaff-Meetup-Image-Generator) (today)
-- [Bellangelo/phpadr](https://github.com/Bellangelo/phpadr) (2 days ago)
+- [Bellangelo/Devstaff-Meetup-Image-Generator](https://github.com/Bellangelo/Devstaff-Meetup-Image-Generator) (1 day ago)
+- [Bellangelo/phpadr](https://github.com/Bellangelo/phpadr) (3 days ago)
 - [Bellangelo/chaos-engineering-frontend](https://github.com/Bellangelo/chaos-engineering-frontend) (2 weeks ago)
 - [devstaff-crete/devstaff-website](https://github.com/devstaff-crete/devstaff-website) (2 weeks ago)
 - [devstaff-crete/DevStaff-Heraklion](https://github.com/devstaff-crete/DevStaff-Heraklion) (2 weeks ago)
