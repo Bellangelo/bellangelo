@@ -10,12 +10,12 @@ In my free time, I delve into scalability challenges and design patterns, sharin
 
 #### 💻 Check out what I'm currently working on
 
-- [Bellangelo/Devstaff-Meetup-Image-Generator](https://github.com/Bellangelo/Devstaff-Meetup-Image-Generator) (1 day ago)
-- [Bellangelo/phpadr](https://github.com/Bellangelo/phpadr) (3 days ago)
+- [Bellangelo/Devstaff-Meetup-Image-Generator](https://github.com/Bellangelo/Devstaff-Meetup-Image-Generator) (2 days ago)
+- [Bellangelo/phpadr](https://github.com/Bellangelo/phpadr) (4 days ago)
 - [Bellangelo/chaos-engineering-frontend](https://github.com/Bellangelo/chaos-engineering-frontend) (2 weeks ago)
 - [devstaff-crete/devstaff-website](https://github.com/devstaff-crete/devstaff-website) (2 weeks ago)
 - [devstaff-crete/DevStaff-Heraklion](https://github.com/devstaff-crete/DevStaff-Heraklion) (2 weeks ago)
-- [adr/adr.github.io](https://github.com/adr/adr.github.io) (4 weeks ago)
+- [adr/adr.github.io](https://github.com/adr/adr.github.io) (1 month ago)
 - [Bellangelo/comment-charm](https://github.com/Bellangelo/comment-charm) (1 month ago)
 - [Bellangelo/coding-standard](https://github.com/Bellangelo/coding-standard) (1 month ago)
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (1 month ago)
@@ -29,7 +29,7 @@ In my free time, I delve into scalability challenges and design patterns, sharin
 - [Bellangelo/phpadr](https://github.com/Bellangelo/phpadr) - [v1.0.0](https://github.com/Bellangelo/phpadr/releases/tag/v1.0.0) (1 month ago)
 - [Bellangelo/coding-standard](https://github.com/Bellangelo/coding-standard) - [v1.0.3](https://github.com/Bellangelo/coding-standard/releases/tag/v1.0.3) (1 month ago)
 - [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - [3.1.1](https://github.com/OAI/OpenAPI-Specification/releases/tag/3.1.1) (2 months ago)
-- [Bellangelo/type-coverage-updater](https://github.com/Bellangelo/type-coverage-updater) - [v1.1.0](https://github.com/Bellangelo/type-coverage-updater/releases/tag/v1.1.0) (2 months ago)
+- [Bellangelo/type-coverage-updater](https://github.com/Bellangelo/type-coverage-updater) - [v1.1.0](https://github.com/Bellangelo/type-coverage-updater/releases/tag/v1.1.0) (3 months ago)
 - [Bellangelo/phpstan-require-file-exists](https://github.com/Bellangelo/phpstan-require-file-exists) - [v1.2.0](https://github.com/Bellangelo/phpstan-require-file-exists/releases/tag/v1.2.0) (3 months ago)
 - [Bellangelo/comment-charm](https://github.com/Bellangelo/comment-charm) - [v1](https://github.com/Bellangelo/comment-charm/releases/tag/v1) (4 months ago)
 - [Bellangelo/TestSuiteArchitect](https://github.com/Bellangelo/TestSuiteArchitect) - [v0.1.7](https://github.com/Bellangelo/TestSuiteArchitect/releases/tag/v0.1.7) (5 months ago)
