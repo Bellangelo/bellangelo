@@ -10,9 +10,9 @@ In my free time, I delve into scalability challenges and design patterns, sharin
 
 #### 💻 Check out what I'm currently working on
 
+- [flow-php/flow](https://github.com/flow-php/flow) (today)
 - [Bellangelo/php-baseline-updater](https://github.com/Bellangelo/php-baseline-updater) (2 days ago)
 - [php/pie](https://github.com/php/pie) (1 week ago)
-- [flow-php/flow](https://github.com/flow-php/flow) (1 week ago)
 - [Bellangelo/Devstaff-Meetup-Image-Generator](https://github.com/Bellangelo/Devstaff-Meetup-Image-Generator) (2 weeks ago)
 - [Bellangelo/phpadr](https://github.com/Bellangelo/phpadr) (2 weeks ago)
 - [Bellangelo/chaos-engineering-frontend](https://github.com/Bellangelo/chaos-engineering-frontend) (4 weeks ago)
