@@ -10,6 +10,7 @@ In my free time, I delve into scalability challenges and design patterns, sharin
 
 #### 💻 Check out what I'm currently working on
 
+- [OpenTermsArchive/contrib-declarations](https://github.com/OpenTermsArchive/contrib-declarations) (today)
 - [flow-php/flow](https://github.com/flow-php/flow) (4 days ago)
 - [Bellangelo/baseline-swiss-knife](https://github.com/Bellangelo/baseline-swiss-knife) (6 days ago)
 - [php/pie](https://github.com/php/pie) (1 week ago)
@@ -19,7 +20,6 @@ In my free time, I delve into scalability challenges and design patterns, sharin
 - [devstaff-crete/devstaff-website](https://github.com/devstaff-crete/devstaff-website) (1 month ago)
 - [devstaff-crete/DevStaff-Heraklion](https://github.com/devstaff-crete/DevStaff-Heraklion) (1 month ago)
 - [adr/adr.github.io](https://github.com/adr/adr.github.io) (1 month ago)
-- [Bellangelo/comment-charm](https://github.com/Bellangelo/comment-charm) (2 months ago)
 
 ---
 
