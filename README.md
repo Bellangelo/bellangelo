@@ -10,9 +10,9 @@ In my free time, I delve into scalability challenges and design patterns, sharin
 
 #### 💻 Check out what I'm currently working on
 
-- [OpenTermsArchive/contrib-declarations](https://github.com/OpenTermsArchive/contrib-declarations) (today)
-- [flow-php/flow](https://github.com/flow-php/flow) (4 days ago)
-- [Bellangelo/baseline-swiss-knife](https://github.com/Bellangelo/baseline-swiss-knife) (6 days ago)
+- [OpenTermsArchive/contrib-declarations](https://github.com/OpenTermsArchive/contrib-declarations) (1 day ago)
+- [flow-php/flow](https://github.com/flow-php/flow) (5 days ago)
+- [Bellangelo/baseline-swiss-knife](https://github.com/Bellangelo/baseline-swiss-knife) (1 week ago)
 - [php/pie](https://github.com/php/pie) (1 week ago)
 - [Bellangelo/Devstaff-Meetup-Image-Generator](https://github.com/Bellangelo/Devstaff-Meetup-Image-Generator) (2 weeks ago)
 - [Bellangelo/phpadr](https://github.com/Bellangelo/phpadr) (3 weeks ago)
@@ -25,7 +25,7 @@ In my free time, I delve into scalability challenges and design patterns, sharin
 
 #### 🔭 Latest releases I've contributed to
 
-- [php/pie](https://github.com/php/pie) - [0.5.0](https://github.com/php/pie/releases/tag/0.5.0) (3 days ago)
+- [php/pie](https://github.com/php/pie) - [0.5.0](https://github.com/php/pie/releases/tag/0.5.0) (4 days ago)
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) - [v2024.3](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2024.3) (3 weeks ago)
 - [Bellangelo/phpadr](https://github.com/Bellangelo/phpadr) - [v1.0.0](https://github.com/Bellangelo/phpadr/releases/tag/v1.0.0) (1 month ago)
 - [Bellangelo/coding-standard](https://github.com/Bellangelo/coding-standard) - [v1.0.3](https://github.com/Bellangelo/coding-standard/releases/tag/v1.0.3) (2 months ago)
