@@ -10,7 +10,7 @@ In my free time, I delve into scalability challenges and design patterns, sharin
 
 #### 💻 Check out what I'm currently working on
 
-- [Bellangelo/phpadr](https://github.com/Bellangelo/phpadr) (4 days ago)
+- [Bellangelo/phpadr](https://github.com/Bellangelo/phpadr) (5 days ago)
 - [flow-php/flow](https://github.com/flow-php/flow) (1 week ago)
 - [OpenTermsArchive/contrib-declarations](https://github.com/OpenTermsArchive/contrib-declarations) (1 week ago)
 - [php/pie](https://github.com/php/pie) (2 weeks ago)
@@ -19,19 +19,19 @@ In my free time, I delve into scalability challenges and design patterns, sharin
 - [Bellangelo/chaos-engineering-frontend](https://github.com/Bellangelo/chaos-engineering-frontend) (1 month ago)
 - [devstaff-crete/devstaff-website](https://github.com/devstaff-crete/devstaff-website) (1 month ago)
 - [devstaff-crete/DevStaff-Heraklion](https://github.com/devstaff-crete/DevStaff-Heraklion) (1 month ago)
-- [adr/adr.github.io](https://github.com/adr/adr.github.io) (1 month ago)
+- [adr/adr.github.io](https://github.com/adr/adr.github.io) (2 months ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [Bellangelo/phpadr](https://github.com/Bellangelo/phpadr) - [v1.0.3](https://github.com/Bellangelo/phpadr/releases/tag/v1.0.3) (5 days ago)
+- [Bellangelo/phpadr](https://github.com/Bellangelo/phpadr) - [v1.0.3](https://github.com/Bellangelo/phpadr/releases/tag/v1.0.3) (6 days ago)
 - [php/pie](https://github.com/php/pie) - [0.5.0](https://github.com/php/pie/releases/tag/0.5.0) (2 weeks ago)
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) - [v2024.3](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2024.3) (1 month ago)
 - [Bellangelo/coding-standard](https://github.com/Bellangelo/coding-standard) - [v1.0.3](https://github.com/Bellangelo/coding-standard/releases/tag/v1.0.3) (2 months ago)
 - [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - [3.1.1](https://github.com/OAI/OpenAPI-Specification/releases/tag/3.1.1) (3 months ago)
 - [flow-php/flow](https://github.com/flow-php/flow) - [0.10.0](https://github.com/flow-php/flow/releases/tag/0.10.0) (3 months ago)
-- [Bellangelo/type-coverage-updater](https://github.com/Bellangelo/type-coverage-updater) - [v1.1.0](https://github.com/Bellangelo/type-coverage-updater/releases/tag/v1.1.0) (3 months ago)
+- [Bellangelo/type-coverage-updater](https://github.com/Bellangelo/type-coverage-updater) - [v1.1.0](https://github.com/Bellangelo/type-coverage-updater/releases/tag/v1.1.0) (4 months ago)
 - [Bellangelo/phpstan-require-file-exists](https://github.com/Bellangelo/phpstan-require-file-exists) - [v1.2.0](https://github.com/Bellangelo/phpstan-require-file-exists/releases/tag/v1.2.0) (4 months ago)
 - [Bellangelo/comment-charm](https://github.com/Bellangelo/comment-charm) - [v1](https://github.com/Bellangelo/comment-charm/releases/tag/v1) (5 months ago)
 - [Bellangelo/TestSuiteArchitect](https://github.com/Bellangelo/TestSuiteArchitect) - [v0.1.7](https://github.com/Bellangelo/TestSuiteArchitect/releases/tag/v0.1.7) (6 months ago)
