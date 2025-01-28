@@ -10,6 +10,7 @@ In my free time, I delve into scalability challenges and design patterns, sharin
 
 #### 💻 Check out what I'm currently working on
 
+- [devstaff-crete/DevStaff-Heraklion](https://github.com/devstaff-crete/DevStaff-Heraklion) (today)
 - [Bellangelo/phpadr](https://github.com/Bellangelo/phpadr) (1 week ago)
 - [flow-php/flow](https://github.com/flow-php/flow) (1 week ago)
 - [OpenTermsArchive/contrib-declarations](https://github.com/OpenTermsArchive/contrib-declarations) (2 weeks ago)
@@ -18,7 +19,6 @@ In my free time, I delve into scalability challenges and design patterns, sharin
 - [Bellangelo/Devstaff-Meetup-Image-Generator](https://github.com/Bellangelo/Devstaff-Meetup-Image-Generator) (1 month ago)
 - [Bellangelo/chaos-engineering-frontend](https://github.com/Bellangelo/chaos-engineering-frontend) (1 month ago)
 - [devstaff-crete/devstaff-website](https://github.com/devstaff-crete/devstaff-website) (1 month ago)
-- [devstaff-crete/DevStaff-Heraklion](https://github.com/devstaff-crete/DevStaff-Heraklion) (1 month ago)
 - [adr/adr.github.io](https://github.com/adr/adr.github.io) (2 months ago)
 
 ---
