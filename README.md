@@ -18,8 +18,8 @@ In my free time, I delve into scalability challenges and design patterns, sharin
 - [php/pie](https://github.com/php/pie) (3 weeks ago)
 - [Bellangelo/baseline-swiss-knife](https://github.com/Bellangelo/baseline-swiss-knife) (1 month ago)
 - [Bellangelo/Devstaff-Meetup-Image-Generator](https://github.com/Bellangelo/Devstaff-Meetup-Image-Generator) (1 month ago)
+- [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) (1 month ago)
 - [Bellangelo/chaos-engineering-frontend](https://github.com/Bellangelo/chaos-engineering-frontend) (1 month ago)
-- [adr/adr.github.io](https://github.com/adr/adr.github.io) (2 months ago)
 
 ---
 
