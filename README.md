@@ -10,12 +10,12 @@ In my free time, I delve into scalability challenges and design patterns, sharin
 
 #### 💻 Check out what I'm currently working on
 
-- [Bellangelo/Devstaff-Meetup-Image-Generator](https://github.com/Bellangelo/Devstaff-Meetup-Image-Generator) (3 days ago)
+- [Bellangelo/Devstaff-Meetup-Image-Generator](https://github.com/Bellangelo/Devstaff-Meetup-Image-Generator) (4 days ago)
 - [devstaff-crete/devstaff-website](https://github.com/devstaff-crete/devstaff-website) (1 week ago)
-- [devstaff-crete/DevStaff-Heraklion](https://github.com/devstaff-crete/DevStaff-Heraklion) (1 week ago)
+- [devstaff-crete/DevStaff-Heraklion](https://github.com/devstaff-crete/DevStaff-Heraklion) (2 weeks ago)
 - [Bellangelo/phpadr](https://github.com/Bellangelo/phpadr) (3 weeks ago)
 - [flow-php/flow](https://github.com/flow-php/flow) (3 weeks ago)
-- [OpenTermsArchive/contrib-declarations](https://github.com/OpenTermsArchive/contrib-declarations) (4 weeks ago)
+- [OpenTermsArchive/contrib-declarations](https://github.com/OpenTermsArchive/contrib-declarations) (1 month ago)
 - [php/pie](https://github.com/php/pie) (1 month ago)
 - [Bellangelo/baseline-swiss-knife](https://github.com/Bellangelo/baseline-swiss-knife) (1 month ago)
 - [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) (1 month ago)
@@ -25,7 +25,7 @@ In my free time, I delve into scalability challenges and design patterns, sharin
 
 #### 🔭 Latest releases I've contributed to
 
-- [php/pie](https://github.com/php/pie) - [0.6.0](https://github.com/php/pie/releases/tag/0.6.0) (1 week ago)
+- [php/pie](https://github.com/php/pie) - [0.6.0](https://github.com/php/pie/releases/tag/0.6.0) (2 weeks ago)
 - [Bellangelo/phpadr](https://github.com/Bellangelo/phpadr) - [v1.0.3](https://github.com/Bellangelo/phpadr/releases/tag/v1.0.3) (3 weeks ago)
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) - [v2024.3](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2024.3) (1 month ago)
 - [Bellangelo/coding-standard](https://github.com/Bellangelo/coding-standard) - [v1.0.3](https://github.com/Bellangelo/coding-standard/releases/tag/v1.0.3) (3 months ago)
