@@ -10,13 +10,13 @@ In my free time, I delve into scalability challenges and design patterns, sharin
 
 #### 💻 Check out what I'm currently working on
 
-- [devstaff-crete/devstaff-website](https://github.com/devstaff-crete/devstaff-website) (3 weeks ago)
-- [devstaff-crete/DevStaff-Heraklion](https://github.com/devstaff-crete/DevStaff-Heraklion) (3 weeks ago)
+- [devstaff-crete/devstaff-website](https://github.com/devstaff-crete/devstaff-website) (4 weeks ago)
+- [devstaff-crete/DevStaff-Heraklion](https://github.com/devstaff-crete/DevStaff-Heraklion) (4 weeks ago)
 - [Bellangelo/Devstaff-Meetup-Image-Generator](https://github.com/Bellangelo/Devstaff-Meetup-Image-Generator) (1 month ago)
 - [Bellangelo/phpadr](https://github.com/Bellangelo/phpadr) (1 month ago)
 - [flow-php/flow](https://github.com/flow-php/flow) (1 month ago)
 - [OpenTermsArchive/contrib-declarations](https://github.com/OpenTermsArchive/contrib-declarations) (1 month ago)
-- [php/pie](https://github.com/php/pie) (1 month ago)
+- [php/pie](https://github.com/php/pie) (2 months ago)
 - [Bellangelo/baseline-swiss-knife](https://github.com/Bellangelo/baseline-swiss-knife) (2 months ago)
 - [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) (2 months ago)
 - [Bellangelo/chaos-engineering-frontend](https://github.com/Bellangelo/chaos-engineering-frontend) (3 months ago)
@@ -25,11 +25,11 @@ In my free time, I delve into scalability challenges and design patterns, sharin
 
 #### 🔭 Latest releases I've contributed to
 
-- [flow-php/flow](https://github.com/flow-php/flow) - [0.11.0](https://github.com/flow-php/flow/releases/tag/0.11.0) (1 day ago)
+- [flow-php/flow](https://github.com/flow-php/flow) - [0.11.0](https://github.com/flow-php/flow/releases/tag/0.11.0) (2 days ago)
 - [php/pie](https://github.com/php/pie) - [0.7.0](https://github.com/php/pie/releases/tag/0.7.0) (1 week ago)
 - [Bellangelo/phpadr](https://github.com/Bellangelo/phpadr) - [v1.0.3](https://github.com/Bellangelo/phpadr/releases/tag/v1.0.3) (1 month ago)
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) - [v2024.3](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2024.3) (2 months ago)
-- [Bellangelo/coding-standard](https://github.com/Bellangelo/coding-standard) - [v1.0.3](https://github.com/Bellangelo/coding-standard/releases/tag/v1.0.3) (3 months ago)
+- [Bellangelo/coding-standard](https://github.com/Bellangelo/coding-standard) - [v1.0.3](https://github.com/Bellangelo/coding-standard/releases/tag/v1.0.3) (4 months ago)
 - [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - [3.1.1](https://github.com/OAI/OpenAPI-Specification/releases/tag/3.1.1) (4 months ago)
 - [Bellangelo/type-coverage-updater](https://github.com/Bellangelo/type-coverage-updater) - [v1.1.0](https://github.com/Bellangelo/type-coverage-updater/releases/tag/v1.1.0) (5 months ago)
 - [Bellangelo/phpstan-require-file-exists](https://github.com/Bellangelo/phpstan-require-file-exists) - [v1.2.0](https://github.com/Bellangelo/phpstan-require-file-exists/releases/tag/v1.2.0) (6 months ago)
