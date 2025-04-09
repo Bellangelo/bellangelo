@@ -19,14 +19,14 @@ In my free time, I delve into scalability challenges and design patterns, sharin
 - [php/pie](https://github.com/php/pie) (2 months ago)
 - [Bellangelo/baseline-swiss-knife](https://github.com/Bellangelo/baseline-swiss-knife) (3 months ago)
 - [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) (3 months ago)
-- [Bellangelo/chaos-engineering-frontend](https://github.com/Bellangelo/chaos-engineering-frontend) (3 months ago)
+- [Bellangelo/chaos-engineering-frontend](https://github.com/Bellangelo/chaos-engineering-frontend) (4 months ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [flow-php/flow](https://github.com/flow-php/flow) - [0.13.1](https://github.com/flow-php/flow/releases/tag/0.13.1) (5 days ago)
-- [php/pie](https://github.com/php/pie) - [0.8.0](https://github.com/php/pie/releases/tag/0.8.0) (3 weeks ago)
+- [flow-php/flow](https://github.com/flow-php/flow) - [0.13.1](https://github.com/flow-php/flow/releases/tag/0.13.1) (6 days ago)
+- [php/pie](https://github.com/php/pie) - [0.8.0](https://github.com/php/pie/releases/tag/0.8.0) (4 weeks ago)
 - [Bellangelo/phpadr](https://github.com/Bellangelo/phpadr) - [v1.0.3](https://github.com/Bellangelo/phpadr/releases/tag/v1.0.3) (2 months ago)
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) - [v2024.3](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2024.3) (3 months ago)
 - [Bellangelo/coding-standard](https://github.com/Bellangelo/coding-standard) - [v1.0.3](https://github.com/Bellangelo/coding-standard/releases/tag/v1.0.3) (4 months ago)
