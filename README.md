@@ -12,7 +12,7 @@ In my free time, I delve into scalability challenges and design patterns, sharin
 
 - [devstaff-crete/devstaff-website](https://github.com/devstaff-crete/devstaff-website) (2 months ago)
 - [devstaff-crete/DevStaff-Heraklion](https://github.com/devstaff-crete/DevStaff-Heraklion) (2 months ago)
-- [Bellangelo/Devstaff-Meetup-Image-Generator](https://github.com/Bellangelo/Devstaff-Meetup-Image-Generator) (2 months ago)
+- [Bellangelo/Devstaff-Meetup-Image-Generator](https://github.com/Bellangelo/Devstaff-Meetup-Image-Generator) (3 months ago)
 - [Bellangelo/phpadr](https://github.com/Bellangelo/phpadr) (3 months ago)
 - [flow-php/flow](https://github.com/flow-php/flow) (3 months ago)
 - [OpenTermsArchive/contrib-declarations](https://github.com/OpenTermsArchive/contrib-declarations) (3 months ago)
@@ -25,8 +25,8 @@ In my free time, I delve into scalability challenges and design patterns, sharin
 
 #### 🔭 Latest releases I've contributed to
 
-- [php/pie](https://github.com/php/pie) - [0.10.0](https://github.com/php/pie/releases/tag/0.10.0) (6 days ago)
-- [flow-php/flow](https://github.com/flow-php/flow) - [0.15.1](https://github.com/flow-php/flow/releases/tag/0.15.1) (6 days ago)
+- [php/pie](https://github.com/php/pie) - [0.10.0](https://github.com/php/pie/releases/tag/0.10.0) (1 week ago)
+- [flow-php/flow](https://github.com/flow-php/flow) - [0.15.1](https://github.com/flow-php/flow/releases/tag/0.15.1) (1 week ago)
 - [Bellangelo/phpadr](https://github.com/Bellangelo/phpadr) - [v1.0.3](https://github.com/Bellangelo/phpadr/releases/tag/v1.0.3) (3 months ago)
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) - [v2024.3](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2024.3) (4 months ago)
 - [Bellangelo/coding-standard](https://github.com/Bellangelo/coding-standard) - [v1.0.3](https://github.com/Bellangelo/coding-standard/releases/tag/v1.0.3) (5 months ago)
