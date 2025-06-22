@@ -10,6 +10,7 @@ In my free time, I delve into scalability challenges and design patterns, sharin
 
 #### 💻 Check out what I'm currently working on
 
+- [Bellangelo/redis-cache-consistency](https://github.com/Bellangelo/redis-cache-consistency) (today)
 - [Bellangelo/skills-secure-code-game](https://github.com/Bellangelo/skills-secure-code-game) (1 month ago)
 - [devstaff-crete/DevStaff-Heraklion](https://github.com/devstaff-crete/DevStaff-Heraklion) (1 month ago)
 - [devstaff-crete/devstaff-website](https://github.com/devstaff-crete/devstaff-website) (4 months ago)
@@ -19,7 +20,6 @@ In my free time, I delve into scalability challenges and design patterns, sharin
 - [OpenTermsArchive/contrib-declarations](https://github.com/OpenTermsArchive/contrib-declarations) (5 months ago)
 - [php/pie](https://github.com/php/pie) (5 months ago)
 - [Bellangelo/baseline-swiss-knife](https://github.com/Bellangelo/baseline-swiss-knife) (5 months ago)
-- [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) (6 months ago)
 
 ---
 
