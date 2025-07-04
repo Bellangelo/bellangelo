@@ -34,7 +34,7 @@ In my free time, I delve into scalability challenges and design patterns, sharin
 - [Bellangelo/type-coverage-updater](https://github.com/Bellangelo/type-coverage-updater) - [v1.1.0](https://github.com/Bellangelo/type-coverage-updater/releases/tag/v1.1.0) (9 months ago)
 - [Bellangelo/phpstan-require-file-exists](https://github.com/Bellangelo/phpstan-require-file-exists) - [v1.2.0](https://github.com/Bellangelo/phpstan-require-file-exists/releases/tag/v1.2.0) (10 months ago)
 - [Bellangelo/comment-charm](https://github.com/Bellangelo/comment-charm) - [v1](https://github.com/Bellangelo/comment-charm/releases/tag/v1) (10 months ago)
-- [Bellangelo/TestSuiteArchitect](https://github.com/Bellangelo/TestSuiteArchitect) - [v0.1.7](https://github.com/Bellangelo/TestSuiteArchitect/releases/tag/v0.1.7) (11 months ago)
+- [Bellangelo/TestSuiteArchitect](https://github.com/Bellangelo/TestSuiteArchitect) - [v0.1.7](https://github.com/Bellangelo/TestSuiteArchitect/releases/tag/v0.1.7) (1 year ago)
 
 ---
 
