@@ -32,7 +32,6 @@ In my free time, I delve into scalability challenges and design patterns, sharin
 - [Bellangelo/coding-standard](https://github.com/Bellangelo/coding-standard) - [v1.0.3](https://github.com/Bellangelo/coding-standard/releases/tag/v1.0.3) (9 months ago)
 - [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - [3.1.1](https://github.com/OAI/OpenAPI-Specification/releases/tag/3.1.1) (10 months ago)
 - [Bellangelo/type-coverage-updater](https://github.com/Bellangelo/type-coverage-updater) - [v1.1.0](https://github.com/Bellangelo/type-coverage-updater/releases/tag/v1.1.0) (11 months ago)
-- [Bellangelo/phpstan-require-file-exists](https://github.com/Bellangelo/phpstan-require-file-exists) - [v1.2.0](https://github.com/Bellangelo/phpstan-require-file-exists/releases/tag/v1.2.0) (1 year ago)
 - [Bellangelo/comment-charm](https://github.com/Bellangelo/comment-charm) - [v1](https://github.com/Bellangelo/comment-charm/releases/tag/v1) (1 year ago)
 
 ---
