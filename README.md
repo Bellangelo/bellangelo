@@ -17,7 +17,7 @@ In my free time, I delve into scalability challenges and design patterns, sharin
 - [Bellangelo/phpadr](https://github.com/Bellangelo/phpadr) (7 months ago)
 - [flow-php/flow](https://github.com/flow-php/flow) (7 months ago)
 - [OpenTermsArchive/contrib-declarations](https://github.com/OpenTermsArchive/contrib-declarations) (7 months ago)
-- [php/pie](https://github.com/php/pie) (7 months ago)
+- [php/pie](https://github.com/php/pie) (8 months ago)
 - [Bellangelo/baseline-swiss-knife](https://github.com/Bellangelo/baseline-swiss-knife) (8 months ago)
 - [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) (8 months ago)
 
@@ -25,11 +25,11 @@ In my free time, I delve into scalability challenges and design patterns, sharin
 
 #### 🔭 Latest releases I've contributed to
 
-- [php/pie](https://github.com/php/pie) - [1.2.0](https://github.com/php/pie/releases/tag/1.2.0) (4 days ago)
-- [flow-php/flow](https://github.com/flow-php/flow) - [0.23.0](https://github.com/flow-php/flow/releases/tag/0.23.0) (5 days ago)
+- [php/pie](https://github.com/php/pie) - [1.2.0](https://github.com/php/pie/releases/tag/1.2.0) (5 days ago)
+- [flow-php/flow](https://github.com/flow-php/flow) - [0.23.0](https://github.com/flow-php/flow/releases/tag/0.23.0) (6 days ago)
 - [Bellangelo/phpadr](https://github.com/Bellangelo/phpadr) - [v1.0.3](https://github.com/Bellangelo/phpadr/releases/tag/v1.0.3) (7 months ago)
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) - [v2024.3](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2024.3) (8 months ago)
-- [Bellangelo/coding-standard](https://github.com/Bellangelo/coding-standard) - [v1.0.3](https://github.com/Bellangelo/coding-standard/releases/tag/v1.0.3) (9 months ago)
+- [Bellangelo/coding-standard](https://github.com/Bellangelo/coding-standard) - [v1.0.3](https://github.com/Bellangelo/coding-standard/releases/tag/v1.0.3) (10 months ago)
 - [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - [3.1.1](https://github.com/OAI/OpenAPI-Specification/releases/tag/3.1.1) (10 months ago)
 - [Bellangelo/type-coverage-updater](https://github.com/Bellangelo/type-coverage-updater) - [v1.1.0](https://github.com/Bellangelo/type-coverage-updater/releases/tag/v1.1.0) (11 months ago)
 - [Bellangelo/comment-charm](https://github.com/Bellangelo/comment-charm) - [v1](https://github.com/Bellangelo/comment-charm/releases/tag/v1) (1 year ago)
