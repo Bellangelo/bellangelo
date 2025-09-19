@@ -25,7 +25,7 @@ In my free time, I delve into scalability challenges and design patterns, sharin
 
 #### 🔭 Latest releases I've contributed to
 
-- [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - [3.1.2](https://github.com/OAI/OpenAPI-Specification/releases/tag/3.1.2) (today)
+- [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - [3.2.0](https://github.com/OAI/OpenAPI-Specification/releases/tag/3.2.0) (today)
 - [flow-php/flow](https://github.com/flow-php/flow) - [0.24.0](https://github.com/flow-php/flow/releases/tag/0.24.0) (3 days ago)
 - [php/pie](https://github.com/php/pie) - [1.2.1](https://github.com/php/pie/releases/tag/1.2.1) (1 week ago)
 - [Bellangelo/phpadr](https://github.com/Bellangelo/phpadr) - [v1.0.3](https://github.com/Bellangelo/phpadr/releases/tag/v1.0.3) (8 months ago)
