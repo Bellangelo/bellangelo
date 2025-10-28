@@ -10,7 +10,7 @@ In my free time, I delve into scalability challenges and design patterns, sharin
 
 #### 💻 Check out what I'm currently working on
 
-- [Bellangelo/bellangelo](https://github.com/Bellangelo/bellangelo) (2 weeks ago)
+- [Bellangelo/bellangelo](https://github.com/Bellangelo/bellangelo) (3 weeks ago)
 - [Bellangelo/skills-secure-code-game](https://github.com/Bellangelo/skills-secure-code-game) (5 months ago)
 - [devstaff-crete/DevStaff-Heraklion](https://github.com/devstaff-crete/DevStaff-Heraklion) (5 months ago)
 - [devstaff-crete/devstaff-website](https://github.com/devstaff-crete/devstaff-website) (8 months ago)
@@ -25,7 +25,7 @@ In my free time, I delve into scalability challenges and design patterns, sharin
 
 #### 🔭 Latest releases I've contributed to
 
-- [flow-php/flow](https://github.com/flow-php/flow) - [0.26.0](https://github.com/flow-php/flow/releases/tag/0.26.0) (today)
+- [flow-php/flow](https://github.com/flow-php/flow) - [0.26.0](https://github.com/flow-php/flow/releases/tag/0.26.0) (1 day ago)
 - [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - [3.2.0](https://github.com/OAI/OpenAPI-Specification/releases/tag/3.2.0) (1 month ago)
 - [php/pie](https://github.com/php/pie) - [1.2.1](https://github.com/php/pie/releases/tag/1.2.1) (1 month ago)
 - [Bellangelo/phpadr](https://github.com/Bellangelo/phpadr) - [v1.0.3](https://github.com/Bellangelo/phpadr/releases/tag/v1.0.3) (9 months ago)
