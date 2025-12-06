@@ -10,6 +10,7 @@ In my free time, I delve into scalability challenges and design patterns, sharin
 
 #### 💻 Check out what I'm currently working on
 
+- [Bellangelo/phpstan-migration-rules](https://github.com/Bellangelo/phpstan-migration-rules) (today)
 - [Bellangelo/bellangelo](https://github.com/Bellangelo/bellangelo) (2 months ago)
 - [Bellangelo/skills-secure-code-game](https://github.com/Bellangelo/skills-secure-code-game) (6 months ago)
 - [devstaff-crete/DevStaff-Heraklion](https://github.com/devstaff-crete/DevStaff-Heraklion) (6 months ago)
@@ -19,7 +20,6 @@ In my free time, I delve into scalability challenges and design patterns, sharin
 - [flow-php/flow](https://github.com/flow-php/flow) (10 months ago)
 - [OpenTermsArchive/contrib-declarations](https://github.com/OpenTermsArchive/contrib-declarations) (10 months ago)
 - [php/pie](https://github.com/php/pie) (11 months ago)
-- [Bellangelo/baseline-swiss-knife](https://github.com/Bellangelo/baseline-swiss-knife) (11 months ago)
 
 ---
 
