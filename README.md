@@ -10,9 +10,9 @@ In my free time, I delve into scalability challenges and design patterns, sharin
 
 #### 💻 Check out what I'm currently working on
 
-- [Bellangelo/phpstan-migration-rules](https://github.com/Bellangelo/phpstan-migration-rules) (3 days ago)
+- [Bellangelo/phpstan-migration-rules](https://github.com/Bellangelo/phpstan-migration-rules) (4 days ago)
 - [Bellangelo/bellangelo](https://github.com/Bellangelo/bellangelo) (2 months ago)
-- [Bellangelo/skills-secure-code-game](https://github.com/Bellangelo/skills-secure-code-game) (6 months ago)
+- [Bellangelo/skills-secure-code-game](https://github.com/Bellangelo/skills-secure-code-game) (7 months ago)
 - [devstaff-crete/DevStaff-Heraklion](https://github.com/devstaff-crete/DevStaff-Heraklion) (7 months ago)
 - [devstaff-crete/devstaff-website](https://github.com/devstaff-crete/devstaff-website) (10 months ago)
 - [Bellangelo/Devstaff-Meetup-Image-Generator](https://github.com/Bellangelo/Devstaff-Meetup-Image-Generator) (10 months ago)
@@ -25,7 +25,7 @@ In my free time, I delve into scalability challenges and design patterns, sharin
 
 #### 🔭 Latest releases I've contributed to
 
-- [php/pie](https://github.com/php/pie) - [1.3.1](https://github.com/php/pie/releases/tag/1.3.1) (1 week ago)
+- [php/pie](https://github.com/php/pie) - [1.3.1](https://github.com/php/pie/releases/tag/1.3.1) (2 weeks ago)
 - [flow-php/flow](https://github.com/flow-php/flow) - [0.28.0](https://github.com/flow-php/flow/releases/tag/0.28.0) (2 weeks ago)
 - [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - [3.2.0](https://github.com/OAI/OpenAPI-Specification/releases/tag/3.2.0) (2 months ago)
 - [Bellangelo/phpadr](https://github.com/Bellangelo/phpadr) - [v1.0.3](https://github.com/Bellangelo/phpadr/releases/tag/v1.0.3) (10 months ago)
