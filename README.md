@@ -25,8 +25,8 @@ In my free time, I delve into scalability challenges and design patterns, sharin
 
 #### 🔭 Latest releases I've contributed to
 
-- [php/pie](https://github.com/php/pie) - [1.3.3](https://github.com/php/pie/releases/tag/1.3.3) (2 days ago)
-- [flow-php/flow](https://github.com/flow-php/flow) - [0.29.0](https://github.com/flow-php/flow/releases/tag/0.29.0) (4 days ago)
+- [php/pie](https://github.com/php/pie) - [1.3.3](https://github.com/php/pie/releases/tag/1.3.3) (3 days ago)
+- [flow-php/flow](https://github.com/flow-php/flow) - [0.29.0](https://github.com/flow-php/flow/releases/tag/0.29.0) (5 days ago)
 - [Bellangelo/phpadr](https://github.com/Bellangelo/phpadr) - [v1.0.3](https://github.com/Bellangelo/phpadr/releases/tag/v1.0.3) (11 months ago)
 
 ---
