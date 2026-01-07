@@ -13,20 +13,20 @@ In my free time, I delve into scalability challenges and design patterns, sharin
 - [Bellangelo/phpstan-migration-rules](https://github.com/Bellangelo/phpstan-migration-rules) (1 week ago)
 - [Bellangelo/bellangelo](https://github.com/Bellangelo/bellangelo) (3 months ago)
 - [Bellangelo/skills-secure-code-game](https://github.com/Bellangelo/skills-secure-code-game) (7 months ago)
-- [devstaff-crete/DevStaff-Heraklion](https://github.com/devstaff-crete/DevStaff-Heraklion) (7 months ago)
-- [devstaff-crete/devstaff-website](https://github.com/devstaff-crete/devstaff-website) (10 months ago)
+- [devstaff-crete/DevStaff-Heraklion](https://github.com/devstaff-crete/DevStaff-Heraklion) (8 months ago)
+- [devstaff-crete/devstaff-website](https://github.com/devstaff-crete/devstaff-website) (11 months ago)
 - [Bellangelo/Devstaff-Meetup-Image-Generator](https://github.com/Bellangelo/Devstaff-Meetup-Image-Generator) (11 months ago)
 - [Bellangelo/phpadr](https://github.com/Bellangelo/phpadr) (11 months ago)
 - [flow-php/flow](https://github.com/flow-php/flow) (11 months ago)
-- [OpenTermsArchive/contrib-declarations](https://github.com/OpenTermsArchive/contrib-declarations) (11 months ago)
+- [OpenTermsArchive/contrib-declarations](https://github.com/OpenTermsArchive/contrib-declarations) (1 year ago)
 - [php/pie](https://github.com/php/pie) (1 year ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [flow-php/flow](https://github.com/flow-php/flow) - [0.30.0](https://github.com/flow-php/flow/releases/tag/0.30.0) (today)
-- [php/pie](https://github.com/php/pie) - [1.3.5](https://github.com/php/pie/releases/tag/1.3.5) (today)
+- [flow-php/flow](https://github.com/flow-php/flow) - [0.30.0](https://github.com/flow-php/flow/releases/tag/0.30.0) (1 day ago)
+- [php/pie](https://github.com/php/pie) - [1.3.5](https://github.com/php/pie/releases/tag/1.3.5) (1 day ago)
 - [Bellangelo/phpstan-migration-rules](https://github.com/Bellangelo/phpstan-migration-rules) - [v0.3.2](https://github.com/Bellangelo/phpstan-migration-rules/releases/tag/v0.3.2) (1 week ago)
 - [Bellangelo/phpadr](https://github.com/Bellangelo/phpadr) - [v1.0.3](https://github.com/Bellangelo/phpadr/releases/tag/v1.0.3) (11 months ago)
 
