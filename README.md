@@ -19,7 +19,6 @@ In my free time, I delve into scalability challenges and design patterns, sharin
 - [Bellangelo/phpadr](https://github.com/Bellangelo/phpadr) (11 months ago)
 - [flow-php/flow](https://github.com/flow-php/flow) (11 months ago)
 - [OpenTermsArchive/contrib-declarations](https://github.com/OpenTermsArchive/contrib-declarations) (1 year ago)
-- [php/pie](https://github.com/php/pie) (1 year ago)
 
 ---
 
