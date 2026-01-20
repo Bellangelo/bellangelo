@@ -10,7 +10,7 @@ In my free time, I delve into scalability challenges and design patterns, sharin
 
 #### 💻 Check out what I'm currently working on
 
-- [Bellangelo/phpstan-migration-rules](https://github.com/Bellangelo/phpstan-migration-rules) (2 weeks ago)
+- [Bellangelo/phpstan-migration-rules](https://github.com/Bellangelo/phpstan-migration-rules) (3 weeks ago)
 - [Bellangelo/bellangelo](https://github.com/Bellangelo/bellangelo) (3 months ago)
 - [Bellangelo/skills-secure-code-game](https://github.com/Bellangelo/skills-secure-code-game) (8 months ago)
 - [devstaff-crete/DevStaff-Heraklion](https://github.com/devstaff-crete/DevStaff-Heraklion) (8 months ago)
@@ -22,7 +22,7 @@ In my free time, I delve into scalability challenges and design patterns, sharin
 
 #### 🔭 Latest releases I've contributed to
 
-- [Bellangelo/phpstan-migration-rules](https://github.com/Bellangelo/phpstan-migration-rules) - [v0.3.2](https://github.com/Bellangelo/phpstan-migration-rules/releases/tag/v0.3.2) (2 weeks ago)
+- [Bellangelo/phpstan-migration-rules](https://github.com/Bellangelo/phpstan-migration-rules) - [v0.3.2](https://github.com/Bellangelo/phpstan-migration-rules/releases/tag/v0.3.2) (3 weeks ago)
 - [Bellangelo/phpadr](https://github.com/Bellangelo/phpadr) - [v1.0.3](https://github.com/Bellangelo/phpadr/releases/tag/v1.0.3) (1 year ago)
 
 ---
