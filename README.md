@@ -23,7 +23,6 @@ In my free time, I delve into scalability challenges and design patterns, sharin
 #### 🔭 Latest releases I've contributed to
 
 - [Bellangelo/phpstan-migration-rules](https://github.com/Bellangelo/phpstan-migration-rules) - [v0.3.2](https://github.com/Bellangelo/phpstan-migration-rules/releases/tag/v0.3.2) (3 weeks ago)
-- [Bellangelo/phpadr](https://github.com/Bellangelo/phpadr) - [v1.0.3](https://github.com/Bellangelo/phpadr/releases/tag/v1.0.3) (1 year ago)
 
 ---
 
