@@ -15,7 +15,7 @@ In my free time, I delve into scalability challenges and design patterns, sharin
 - [Bellangelo/skills-secure-code-game](https://github.com/Bellangelo/skills-secure-code-game) (8 months ago)
 - [devstaff-crete/DevStaff-Heraklion](https://github.com/devstaff-crete/DevStaff-Heraklion) (8 months ago)
 - [devstaff-crete/devstaff-website](https://github.com/devstaff-crete/devstaff-website) (11 months ago)
-- [Bellangelo/Devstaff-Meetup-Image-Generator](https://github.com/Bellangelo/Devstaff-Meetup-Image-Generator) (11 months ago)
+- [Bellangelo/Devstaff-Meetup-Image-Generator](https://github.com/Bellangelo/Devstaff-Meetup-Image-Generator) (1 year ago)
 
 ---
 
