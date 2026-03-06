@@ -11,7 +11,7 @@ In my free time, I delve into scalability challenges and design patterns, sharin
 #### 💻 Check out what I'm currently working on
 
 - [Bellangelo/phpstan-migration-rules](https://github.com/Bellangelo/phpstan-migration-rules) (2 months ago)
-- [Bellangelo/bellangelo](https://github.com/Bellangelo/bellangelo) (4 months ago)
+- [Bellangelo/bellangelo](https://github.com/Bellangelo/bellangelo) (5 months ago)
 - [Bellangelo/skills-secure-code-game](https://github.com/Bellangelo/skills-secure-code-game) (9 months ago)
 - [devstaff-crete/DevStaff-Heraklion](https://github.com/devstaff-crete/DevStaff-Heraklion) (9 months ago)
 
