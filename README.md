@@ -10,6 +10,7 @@ In my free time, I delve into scalability challenges and design patterns, sharin
 
 #### 💻 Check out what I'm currently working on
 
+- [guanguans/package-skeleton](https://github.com/guanguans/package-skeleton) (1 day ago)
 - [Bellangelo/phpstan-migration-rules](https://github.com/Bellangelo/phpstan-migration-rules) (2 days ago)
 - [Bellangelo/bellangelo](https://github.com/Bellangelo/bellangelo) (5 months ago)
 - [Bellangelo/skills-secure-code-game](https://github.com/Bellangelo/skills-secure-code-game) (10 months ago)
@@ -20,6 +21,7 @@ In my free time, I delve into scalability challenges and design patterns, sharin
 #### 🔭 Latest releases I've contributed to
 
 - [Bellangelo/phpstan-migration-rules](https://github.com/Bellangelo/phpstan-migration-rules) - [v0.4.3](https://github.com/Bellangelo/phpstan-migration-rules/releases/tag/v0.4.3) (2 days ago)
+- [guanguans/package-skeleton](https://github.com/guanguans/package-skeleton) - [3.5.0](https://github.com/guanguans/package-skeleton/releases/tag/3.5.0) (10 months ago)
 
 ---
 
