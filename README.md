@@ -21,7 +21,7 @@ In my free time, I delve into scalability challenges and design patterns, sharin
 #### 🔭 Latest releases I've contributed to
 
 - [Bellangelo/phpstan-migration-rules](https://github.com/Bellangelo/phpstan-migration-rules) - [v0.4.3](https://github.com/Bellangelo/phpstan-migration-rules/releases/tag/v0.4.3) (2 weeks ago)
-- [guanguans/package-skeleton](https://github.com/guanguans/package-skeleton) - [3.5.0](https://github.com/guanguans/package-skeleton/releases/tag/3.5.0) (10 months ago)
+- [guanguans/package-skeleton](https://github.com/guanguans/package-skeleton) - [3.5.0](https://github.com/guanguans/package-skeleton/releases/tag/3.5.0) (11 months ago)
 
 ---
 
