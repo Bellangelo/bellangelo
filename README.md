@@ -10,7 +10,7 @@ In my free time, I delve into scalability challenges and design patterns, sharin
 
 #### 💻 Check out what I'm currently working on
 
-- [Bellangelo/architecture-catas](https://github.com/Bellangelo/architecture-catas) (4 days ago)
+- [Bellangelo/architecture-catas](https://github.com/Bellangelo/architecture-catas) (5 days ago)
 - [guanguans/package-skeleton](https://github.com/guanguans/package-skeleton) (3 weeks ago)
 - [Bellangelo/phpstan-migration-rules](https://github.com/Bellangelo/phpstan-migration-rules) (3 weeks ago)
 - [Bellangelo/bellangelo](https://github.com/Bellangelo/bellangelo) (6 months ago)
@@ -21,7 +21,7 @@ In my free time, I delve into scalability challenges and design patterns, sharin
 
 #### 🔭 Latest releases I've contributed to
 
-- [guanguans/package-skeleton](https://github.com/guanguans/package-skeleton) - [4.0.0](https://github.com/guanguans/package-skeleton/releases/tag/4.0.0) (1 day ago)
+- [guanguans/package-skeleton](https://github.com/guanguans/package-skeleton) - [4.0.0](https://github.com/guanguans/package-skeleton/releases/tag/4.0.0) (2 days ago)
 - [Bellangelo/phpstan-migration-rules](https://github.com/Bellangelo/phpstan-migration-rules) - [v0.4.3](https://github.com/Bellangelo/phpstan-migration-rules/releases/tag/v0.4.3) (3 weeks ago)
 
 ---
