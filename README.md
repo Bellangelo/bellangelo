@@ -12,7 +12,7 @@ In my free time, I delve into scalability challenges and design patterns, sharin
 
 - [Bellangelo/architecture-catas](https://github.com/Bellangelo/architecture-catas) (1 week ago)
 - [guanguans/package-skeleton](https://github.com/guanguans/package-skeleton) (4 weeks ago)
-- [Bellangelo/phpstan-migration-rules](https://github.com/Bellangelo/phpstan-migration-rules) (4 weeks ago)
+- [Bellangelo/phpstan-migration-rules](https://github.com/Bellangelo/phpstan-migration-rules) (1 month ago)
 - [Bellangelo/bellangelo](https://github.com/Bellangelo/bellangelo) (6 months ago)
 - [Bellangelo/skills-secure-code-game](https://github.com/Bellangelo/skills-secure-code-game) (11 months ago)
 - [devstaff-crete/DevStaff-Heraklion](https://github.com/devstaff-crete/DevStaff-Heraklion) (11 months ago)
@@ -22,7 +22,7 @@ In my free time, I delve into scalability challenges and design patterns, sharin
 #### 🔭 Latest releases I've contributed to
 
 - [guanguans/package-skeleton](https://github.com/guanguans/package-skeleton) - [4.0.0](https://github.com/guanguans/package-skeleton/releases/tag/4.0.0) (1 week ago)
-- [Bellangelo/phpstan-migration-rules](https://github.com/Bellangelo/phpstan-migration-rules) - [v0.4.3](https://github.com/Bellangelo/phpstan-migration-rules/releases/tag/v0.4.3) (4 weeks ago)
+- [Bellangelo/phpstan-migration-rules](https://github.com/Bellangelo/phpstan-migration-rules) - [v0.4.3](https://github.com/Bellangelo/phpstan-migration-rules/releases/tag/v0.4.3) (1 month ago)
 
 ---
 
