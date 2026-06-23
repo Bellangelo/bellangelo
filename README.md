@@ -10,6 +10,7 @@ In my free time, I delve into scalability challenges and design patterns, sharin
 
 #### 💻 Check out what I'm currently working on
 
+- [futured-ai/futured-ai.github.io](https://github.com/futured-ai/futured-ai.github.io) (today)
 - [Bellangelo/type-coverage-updater](https://github.com/Bellangelo/type-coverage-updater) (1 month ago)
 - [Bellangelo/architecture-catas](https://github.com/Bellangelo/architecture-catas) (2 months ago)
 - [guanguans/package-skeleton](https://github.com/guanguans/package-skeleton) (2 months ago)
