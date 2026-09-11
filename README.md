@@ -14,7 +14,7 @@ In my free time, I delve into scalability challenges and design patterns, sharin
 - [symfony/symfony](https://github.com/symfony/symfony) (3 weeks ago)
 - [futured-ai/futured-ai.github.io](https://github.com/futured-ai/futured-ai.github.io) (1 month ago)
 - [Bellangelo/type-coverage-updater](https://github.com/Bellangelo/type-coverage-updater) (3 months ago)
-- [Bellangelo/architecture-catas](https://github.com/Bellangelo/architecture-catas) (4 months ago)
+- [Bellangelo/architecture-catas](https://github.com/Bellangelo/architecture-catas) (5 months ago)
 - [guanguans/package-skeleton](https://github.com/guanguans/package-skeleton) (5 months ago)
 - [Bellangelo/phpstan-migration-rules](https://github.com/Bellangelo/phpstan-migration-rules) (5 months ago)
 - [Bellangelo/bellangelo](https://github.com/Bellangelo/bellangelo) (11 months ago)
