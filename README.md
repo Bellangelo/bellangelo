@@ -10,8 +10,8 @@ In my free time, I delve into scalability challenges and design patterns, sharin
 
 #### 💻 Check out what I'm currently working on
 
-- [symfony/console](https://github.com/symfony/console) (3 weeks ago)
-- [symfony/symfony](https://github.com/symfony/symfony) (3 weeks ago)
+- [symfony/console](https://github.com/symfony/console) (4 weeks ago)
+- [symfony/symfony](https://github.com/symfony/symfony) (4 weeks ago)
 - [futured-ai/futured-ai.github.io](https://github.com/futured-ai/futured-ai.github.io) (1 month ago)
 - [Bellangelo/type-coverage-updater](https://github.com/Bellangelo/type-coverage-updater) (3 months ago)
 - [Bellangelo/architecture-catas](https://github.com/Bellangelo/architecture-catas) (5 months ago)
