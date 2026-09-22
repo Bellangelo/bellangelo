@@ -23,11 +23,11 @@ In my free time, I delve into scalability challenges and design patterns, sharin
 
 #### 🔭 Latest releases I've contributed to
 
+- [guanguans/package-skeleton](https://github.com/guanguans/package-skeleton) - [4.1.0](https://github.com/guanguans/package-skeleton/releases/tag/4.1.0) (today)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v8.1.7](https://github.com/symfony/symfony/releases/tag/v8.1.7) (1 week ago)
 - [symfony/console](https://github.com/symfony/console) - [v8.1.7](https://github.com/symfony/console/releases/tag/v8.1.7) (1 week ago)
 - [Bellangelo/phpstan-migration-rules](https://github.com/Bellangelo/phpstan-migration-rules) - [v0.4.4](https://github.com/Bellangelo/phpstan-migration-rules/releases/tag/v0.4.4) (2 months ago)
 - [Bellangelo/type-coverage-updater](https://github.com/Bellangelo/type-coverage-updater) - [v1.1.1](https://github.com/Bellangelo/type-coverage-updater/releases/tag/v1.1.1) (4 months ago)
-- [guanguans/package-skeleton](https://github.com/guanguans/package-skeleton) - [4.0.0](https://github.com/guanguans/package-skeleton/releases/tag/4.0.0) (5 months ago)
 
 ---
 
