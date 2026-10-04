@@ -10,6 +10,7 @@ In my free time, I delve into scalability challenges and design patterns, sharin
 
 #### 💻 Check out what I'm currently working on
 
+- [Bellangelo/ghost-debt](https://github.com/Bellangelo/ghost-debt) (today)
 - [symfony/console](https://github.com/symfony/console) (1 month ago)
 - [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
 - [futured-ai/futured-ai.github.io](https://github.com/futured-ai/futured-ai.github.io) (2 months ago)
