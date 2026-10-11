@@ -18,7 +18,6 @@ In my free time, I delve into scalability challenges and design patterns, sharin
 - [Bellangelo/architecture-catas](https://github.com/Bellangelo/architecture-catas) (6 months ago)
 - [guanguans/package-skeleton](https://github.com/guanguans/package-skeleton) (6 months ago)
 - [Bellangelo/phpstan-migration-rules](https://github.com/Bellangelo/phpstan-migration-rules) (6 months ago)
-- [Bellangelo/bellangelo](https://github.com/Bellangelo/bellangelo) (1 year ago)
 
 ---
 
