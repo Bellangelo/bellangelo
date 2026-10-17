@@ -23,8 +23,8 @@ In my free time, I delve into scalability challenges and design patterns, sharin
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) - [v5.4.54](https://github.com/symfony/symfony/releases/tag/v5.4.54) (1 day ago)
-- [symfony/console](https://github.com/symfony/console) - [v5.4.54](https://github.com/symfony/console/releases/tag/v5.4.54) (1 day ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - [v5.4.54](https://github.com/symfony/symfony/releases/tag/v5.4.54) (2 days ago)
+- [symfony/console](https://github.com/symfony/console) - [v5.4.54](https://github.com/symfony/console/releases/tag/v5.4.54) (2 days ago)
 - [guanguans/package-skeleton](https://github.com/guanguans/package-skeleton) - [4.1.0](https://github.com/guanguans/package-skeleton/releases/tag/4.1.0) (3 weeks ago)
 - [Bellangelo/phpstan-migration-rules](https://github.com/Bellangelo/phpstan-migration-rules) - [v0.4.4](https://github.com/Bellangelo/phpstan-migration-rules/releases/tag/v0.4.4) (3 months ago)
 - [Bellangelo/type-coverage-updater](https://github.com/Bellangelo/type-coverage-updater) - [v1.1.1](https://github.com/Bellangelo/type-coverage-updater/releases/tag/v1.1.1) (4 months ago)
