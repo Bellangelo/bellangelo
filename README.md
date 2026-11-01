@@ -10,10 +10,10 @@ In my free time, I delve into scalability challenges and design patterns, sharin
 
 #### 💻 Check out what I'm currently working on
 
-- [Bellangelo/Ghost-debt](https://github.com/Bellangelo/Ghost-debt) (3 weeks ago)
+- [Bellangelo/Ghost-debt](https://github.com/Bellangelo/Ghost-debt) (4 weeks ago)
 - [symfony/symfony](https://github.com/symfony/symfony) (2 months ago)
 - [symfony/console](https://github.com/symfony/console) (2 months ago)
-- [futured-ai/futured-ai.github.io](https://github.com/futured-ai/futured-ai.github.io) (2 months ago)
+- [futured-ai/futured-ai.github.io](https://github.com/futured-ai/futured-ai.github.io) (3 months ago)
 - [Bellangelo/type-coverage-updater](https://github.com/Bellangelo/type-coverage-updater) (5 months ago)
 - [Bellangelo/architecture-catas](https://github.com/Bellangelo/architecture-catas) (6 months ago)
 - [guanguans/package-skeleton](https://github.com/guanguans/package-skeleton) (7 months ago)
@@ -23,8 +23,8 @@ In my free time, I delve into scalability challenges and design patterns, sharin
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) - [v8.1.10](https://github.com/symfony/symfony/releases/tag/v8.1.10) (3 days ago)
-- [symfony/console](https://github.com/symfony/console) - [v8.1.10](https://github.com/symfony/console/releases/tag/v8.1.10) (3 days ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - [v8.1.10](https://github.com/symfony/symfony/releases/tag/v8.1.10) (4 days ago)
+- [symfony/console](https://github.com/symfony/console) - [v8.1.10](https://github.com/symfony/console/releases/tag/v8.1.10) (4 days ago)
 - [guanguans/package-skeleton](https://github.com/guanguans/package-skeleton) - [4.1.0](https://github.com/guanguans/package-skeleton/releases/tag/4.1.0) (1 month ago)
 - [Bellangelo/phpstan-migration-rules](https://github.com/Bellangelo/phpstan-migration-rules) - [v0.4.4](https://github.com/Bellangelo/phpstan-migration-rules/releases/tag/v0.4.4) (4 months ago)
 - [Bellangelo/type-coverage-updater](https://github.com/Bellangelo/type-coverage-updater) - [v1.1.1](https://github.com/Bellangelo/type-coverage-updater/releases/tag/v1.1.1) (5 months ago)
