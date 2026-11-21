@@ -17,7 +17,7 @@ In my free time, I delve into scalability challenges and design patterns, sharin
 - [Bellangelo/type-coverage-updater](https://github.com/Bellangelo/type-coverage-updater) (6 months ago)
 - [Bellangelo/architecture-catas](https://github.com/Bellangelo/architecture-catas) (7 months ago)
 - [guanguans/package-skeleton](https://github.com/guanguans/package-skeleton) (7 months ago)
-- [Bellangelo/phpstan-migration-rules](https://github.com/Bellangelo/phpstan-migration-rules) (7 months ago)
+- [Bellangelo/phpstan-migration-rules](https://github.com/Bellangelo/phpstan-migration-rules) (8 months ago)
 
 ---
 
@@ -25,7 +25,7 @@ In my free time, I delve into scalability challenges and design patterns, sharin
 
 - [symfony/symfony](https://github.com/symfony/symfony) - [v8.2.0-BETA2](https://github.com/symfony/symfony/releases/tag/v8.2.0-BETA2) (1 week ago)
 - [symfony/console](https://github.com/symfony/console) - [v8.2.0-BETA2](https://github.com/symfony/console/releases/tag/v8.2.0-BETA2) (1 week ago)
-- [guanguans/package-skeleton](https://github.com/guanguans/package-skeleton) - [4.1.0](https://github.com/guanguans/package-skeleton/releases/tag/4.1.0) (1 month ago)
+- [guanguans/package-skeleton](https://github.com/guanguans/package-skeleton) - [4.1.0](https://github.com/guanguans/package-skeleton/releases/tag/4.1.0) (2 months ago)
 - [Bellangelo/phpstan-migration-rules](https://github.com/Bellangelo/phpstan-migration-rules) - [v0.4.4](https://github.com/Bellangelo/phpstan-migration-rules/releases/tag/v0.4.4) (4 months ago)
 - [Bellangelo/type-coverage-updater](https://github.com/Bellangelo/type-coverage-updater) - [v1.1.1](https://github.com/Bellangelo/type-coverage-updater/releases/tag/v1.1.1) (6 months ago)
 
