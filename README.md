@@ -12,8 +12,8 @@ In my free time, I delve into scalability challenges and design patterns, sharin
 
 - [Bellangelo/Ghost-debt](https://github.com/Bellangelo/Ghost-debt) (1 month ago)
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 months ago)
-- [symfony/symfony](https://github.com/symfony/symfony) (3 months ago)
 - [symfony/console](https://github.com/symfony/console) (3 months ago)
+- [symfony/symfony](https://github.com/symfony/symfony) (3 months ago)
 - [futured-ai/futured-ai.github.io](https://github.com/futured-ai/futured-ai.github.io) (3 months ago)
 - [Bellangelo/type-coverage-updater](https://github.com/Bellangelo/type-coverage-updater) (6 months ago)
 - [Bellangelo/architecture-catas](https://github.com/Bellangelo/architecture-catas) (7 months ago)
@@ -24,7 +24,7 @@ In my free time, I delve into scalability challenges and design patterns, sharin
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) - [v8.2.0-RC1](https://github.com/symfony/symfony/releases/tag/v8.2.0-RC1) (2 days ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - [v8.1.13](https://github.com/symfony/symfony/releases/tag/v8.1.13) (today)
 - [symfony/console](https://github.com/symfony/console) - [v8.2.0-RC1](https://github.com/symfony/console/releases/tag/v8.2.0-RC1) (2 days ago)
 - [guanguans/package-skeleton](https://github.com/guanguans/package-skeleton) - [4.1.0](https://github.com/guanguans/package-skeleton/releases/tag/4.1.0) (2 months ago)
 - [Bellangelo/phpstan-migration-rules](https://github.com/Bellangelo/phpstan-migration-rules) - [v0.4.4](https://github.com/Bellangelo/phpstan-migration-rules/releases/tag/v0.4.4) (5 months ago)
